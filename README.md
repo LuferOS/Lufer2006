@@ -39,7 +39,7 @@ A lo largo de mi trayectoria, he adquirido experiencia en diversas tecnologías 
 
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado o estoy desarrollando:
 
-* **🎟️ Aurora Tickets:** Un bot de Discord avanzado para la gestión profesional de soporte, automatizando la creación de tickets y transcripciones. [¡Ver Repositorio!](https://github.com/TuUsuario/AuroraTickets.git) *(**Importante**: Reemplaza este enlace con el URL real de tu repositorio de Aurora Tickets en GitHub)*
+* **🎟️ Aurora Tickets:** Un bot de Discord avanzado para la gestión profesional de soporte, automatizando la creación de tickets y transcripciones. [¡Ver Repositorio!](https://github.com/LuferOS/Tickets-Bot-Discord-Aurora) *(**Importante**: Reemplaza este enlace con el URL real de tu repositorio de Aurora Tickets en GitHub)*
 
 ---
 
